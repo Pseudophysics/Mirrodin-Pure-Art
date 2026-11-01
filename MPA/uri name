@@ -1,0 +1,2206 @@
+[CustomCards]
+	[	{
+			"name": "Herald of the White Sun",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}{W}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "12",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Herald of the White Sun.png"
+			}
+		},
+		{
+			"name": "Supply Thopter",
+			"rarity": "common",
+			"mana_cost": "{2/W}",
+			"type": "Artifact Creature — Thopter ",
+			"collector_number": "32",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Supply Thopter.png"
+			}
+		},
+		{
+			"name": "Shaping Steel",
+			"rarity": "rare",
+			"mana_cost": "{2/U}",
+			"type": "Artifact Creature — Shapeshifter ",
+			"collector_number": "66",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Shaping Steel.png"
+			}
+		},
+		{
+			"name": "Lumengrid Lookout",
+			"rarity": "common",
+			"mana_cost": "{2/U}",
+			"type": "Artifact Creature — Vedalken Scout ",
+			"collector_number": "49",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Lumengrid Lookout.png"
+			}
+		},
+		{
+			"name": "Viridian Druid",
+			"rarity": "uncommon",
+			"mana_cost": "{2/G}",
+			"type": "Artifact Creature — Elf Druid ",
+			"collector_number": "178",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Viridian Druid.png"
+			}
+		},
+		{
+			"name": "Irradiated Myr",
+			"rarity": "common",
+			"mana_cost": "{2/G}",
+			"type": "Artifact Creature — Myr ",
+			"collector_number": "155",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Irradiated Myr.png"
+			}
+		},
+		{
+			"name": "Arc Lobber",
+			"rarity": "common",
+			"mana_cost": "{2/R}",
+			"type": "Artifact Creature — Lizard ",
+			"collector_number": "110",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Arc Lobber.png"
+			}
+		},
+		{
+			"name": "Seal of Negation",
+			"rarity": "common",
+			"mana_cost": "{1}{U}{U}",
+			"type": "Artifact",
+			"collector_number": "63",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Seal of Negation.png"
+			}
+		},
+		{
+			"name": "Mechastronomer Barolt",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{B}",
+			"type": "Legendary Artifact Creature — Elephant ",
+			"collector_number": "187",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Mechastronomer Barolt.png"
+			}
+		},
+		{
+			"name": "Herald of the Black Sun",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}{B}",
+			"type": "Artifact Creature — Vampire Shaman ",
+			"collector_number": "83",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Herald of the Black Sun.png"
+			}
+		},
+		{
+			"name": "Salvage Slasher",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact Creature — Human Rogue ",
+			"collector_number": "105",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Salvage Slasher.png"
+			}
+		},
+		{
+			"name": "Gold Myr",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Myr ",
+			"collector_number": "192",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Gold Myr.png"
+			}
+		},
+		{
+			"name": "Leaden Myr",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Myr ",
+			"collector_number": "194",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Leaden Myr.png"
+			}
+		},
+		{
+			"name": "Silver Myr",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Myr ",
+			"collector_number": "195",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Silver Myr.png"
+			}
+		},
+		{
+			"name": "Iron Myr",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Myr ",
+			"collector_number": "193",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Iron Myr.png"
+			}
+		},
+		{
+			"name": "Copper Myr",
+			"rarity": "common",
+			"mana_cost": "{2}",
+			"type": "Artifact Creature — Myr ",
+			"collector_number": "191",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Copper Myr.png"
+			}
+		},
+		{
+			"name": "Karn, Rage Splicer",
+			"rarity": "rare",
+			"mana_cost": "{5}{R}{G}",
+			"type": "Legendary Artifact Creature — Golem ",
+			"collector_number": "186",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Karn, Rage Splicer.png"
+			}
+		},
+		{
+			"name": "Neurok Curator",
+			"rarity": "uncommon",
+			"mana_cost": "{2/U}{2/U}",
+			"type": "Artifact Creature — Human Rogue ",
+			"collector_number": "53",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Neurok Curator.png"
+			}
+		},
+		{
+			"name": "Dross Devourer",
+			"rarity": "common",
+			"mana_cost": "{2/B}",
+			"type": "Artifact Creature — Ooze ",
+			"collector_number": "77",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Dross Devourer.png"
+			}
+		},
+		{
+			"name": "Hexgold Coating",
+			"rarity": "rare",
+			"mana_cost": "{2/W}{2/W}",
+			"type": "Artifact",
+			"collector_number": "13",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Hexgold Coating.png"
+			}
+		},
+		{
+			"name": "Strange Seeds",
+			"rarity": "common",
+			"mana_cost": "{2/G}",
+			"type": "Artifact — Food Clue ",
+			"collector_number": "167",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Strange Seeds.png"
+			}
+		},
+		{
+			"name": "Lost to the Lacunae",
+			"rarity": "uncommon",
+			"mana_cost": "{2/W}{2/W}",
+			"type": "Artifact",
+			"collector_number": "19",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Lost to the Lacunae.png"
+			}
+		},
+		{
+			"name": "Ornate Scabbard",
+			"rarity": "uncommon",
+			"mana_cost": "{2/R}",
+			"type": "Artifact — Treasure ",
+			"collector_number": "132",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Ornate Scabbard.png"
+			}
+		},
+		{
+			"name": "Diskelion",
+			"rarity": "uncommon",
+			"mana_cost": "{2/R}{2/R}",
+			"type": "Artifact Creature — Construct ",
+			"collector_number": "118",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Diskelion.png"
+			}
+		},
+		{
+			"name": "Mycosynth Serpent",
+			"rarity": "common",
+			"mana_cost": "{6}{U}",
+			"type": "Artifact Creature — Serpent ",
+			"collector_number": "51",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Mycosynth Serpent.png"
+			}
+		},
+		{
+			"name": "Lacunae Burrower",
+			"rarity": "common",
+			"mana_cost": "{4}{G}{G}",
+			"type": "Artifact Creature — Wurm ",
+			"collector_number": "156",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Lacunae Burrower.png"
+			}
+		},
+		{
+			"name": "Oxidda Hellion",
+			"rarity": "common",
+			"mana_cost": "{5}{R}",
+			"type": "Artifact Creature — Hellion ",
+			"collector_number": "133",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Oxidda Hellion.png"
+			}
+		},
+		{
+			"name": "Lacunae Swarm",
+			"rarity": "common",
+			"mana_cost": "{4}{B}",
+			"type": "Artifact Creature — Rat ",
+			"collector_number": "86",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Lacunae Swarm.png"
+			}
+		},
+		{
+			"name": "Lacunae Luminator",
+			"rarity": "common",
+			"mana_cost": "{6}{W}",
+			"type": "Artifact Creature — Angel ",
+			"collector_number": "16",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Lacunae Luminator.png"
+			}
+		},
+		{
+			"name": "Gusven, Infant Slagwurm",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{G}",
+			"type": "Legendary Artifact Creature — Wurm ",
+			"collector_number": "184",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Gusven, Infant Slagwurm.png"
+			}
+		},
+		{
+			"name": "Platinum Press",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Treasure ",
+			"collector_number": "135",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Platinum Press.png"
+			}
+		},
+		{
+			"name": "Metatog",
+			"rarity": "rare",
+			"mana_cost": "{2/R}{2/R}",
+			"type": "Artifact Creature — Atog ",
+			"collector_number": "131",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Metatog.png"
+			}
+		},
+		{
+			"name": "Vulshok Geomancer",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Human Wizard ",
+			"collector_number": "143",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Vulshok Geomancer.png"
+			}
+		},
+		{
+			"name": "Dusk Scavenger",
+			"rarity": "uncommon",
+			"mana_cost": "{2/B}",
+			"type": "Artifact Creature — Imp ",
+			"collector_number": "79",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Dusk Scavenger.png"
+			}
+		},
+		{
+			"name": "Auriok Vanguard",
+			"rarity": "rare",
+			"mana_cost": "{2/W}",
+			"type": "Artifact Creature — Human Knight ",
+			"collector_number": "5",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Auriok Vanguard.png"
+			}
+		},
+		{
+			"name": "Jor Kadeen, Battlecrier",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{W}",
+			"type": "Legendary Artifact Creature — Human ",
+			"collector_number": "185",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Jor Kadeen, Battlecrier.png"
+			}
+		},
+		{
+			"name": "Seal of Decay",
+			"rarity": "common",
+			"mana_cost": "{1}{B}",
+			"type": "Artifact",
+			"collector_number": "106",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Seal of Decay.png"
+			}
+		},
+		{
+			"name": "Neurok Deflector",
+			"rarity": "uncommon",
+			"mana_cost": "{2/U}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "54",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Neurok Deflector.png"
+			}
+		},
+		{
+			"name": "Contested Carcass",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact — Food Clue ",
+			"collector_number": "147",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Contested Carcass.png"
+			}
+		},
+		{
+			"name": "Seal of Vengeance",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact",
+			"collector_number": "30",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Seal of Vengeance.png"
+			}
+		},
+		{
+			"name": "Seal of Shattering",
+			"rarity": "common",
+			"mana_cost": "{R}",
+			"type": "Artifact",
+			"collector_number": "136",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Seal of Shattering.png"
+			}
+		},
+		{
+			"name": "Synod Seat",
+			"rarity": "uncommon",
+			"mana_cost": "{2/U}{2/U}",
+			"type": "Artifact",
+			"collector_number": "68",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Synod Seat.png"
+			}
+		},
+		{
+			"name": "Supply Smasher",
+			"rarity": "uncommon",
+			"mana_cost": "{2/G}{2/G}{2/G}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "168",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Supply Smasher.png"
+			}
+		},
+		{
+			"name": "Poisoned Provisions",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Artifact — Food ",
+			"collector_number": "103",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Poisoned Provisions.png"
+			}
+		},
+		{
+			"name": "Helm of Memnarch",
+			"rarity": "mythic",
+			"mana_cost": "{2}{U}{U}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "43",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Helm of Memnarch.png"
+			}
+		},
+		{
+			"name": "Armored Skyhunter",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Cat Soldier ",
+			"collector_number": "1",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Armored Skyhunter.png"
+			}
+		},
+		{
+			"name": "Debris Titan",
+			"rarity": "rare",
+			"mana_cost": "{2/B}",
+			"type": "Artifact Creature — Giant ",
+			"collector_number": "75",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Debris Titan.png"
+			}
+		},
+		{
+			"name": "Graveyard Stash",
+			"rarity": "uncommon",
+			"mana_cost": "{2/B}{2/B}{2/B}",
+			"type": "Artifact — Food ",
+			"collector_number": "81",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Graveyard Stash.png"
+			}
+		},
+		{
+			"name": "Vulshok Bonesplitter",
+			"rarity": "uncommon",
+			"mana_cost": "{2/R}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "142",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Vulshok Bonesplitter.png"
+			}
+		},
+		{
+			"name": "Mephidross Cultivator",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "92",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Mephidross Cultivator.png"
+			}
+		},
+		{
+			"name": "Mephidross Bloodletter",
+			"rarity": "uncommon",
+			"mana_cost": "{2/B}{2/B}",
+			"type": "Artifact Creature — Vampire Assassin ",
+			"collector_number": "91",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Mephidross Bloodletter.png"
+			}
+		},
+		{
+			"name": "Chiss-Goria, Reforged",
+			"rarity": "rare",
+			"mana_cost": "{3}{U}{R}",
+			"type": "Legendary Artifact Creature — Dragon ",
+			"collector_number": "181",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Chiss-Goria, Reforged.png"
+			}
+		},
+		{
+			"name": "Radix Recluse",
+			"rarity": "common",
+			"mana_cost": "{6}{G}",
+			"type": "Artifact Creature — Spider ",
+			"collector_number": "161",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Radix Recluse.png"
+			}
+		},
+		{
+			"name": "Melira, Sylvok Paragon",
+			"rarity": "mythic",
+			"mana_cost": "{2/G}{2/G}",
+			"type": "Legendary Artifact Creature — Human ",
+			"collector_number": "157",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Melira, Sylvok Paragon.png"
+			}
+		},
+		{
+			"name": "Quicksilver Progenitor",
+			"rarity": "rare",
+			"mana_cost": "{2/U}{2/U}",
+			"type": "Artifact Creature — Elemental ",
+			"collector_number": "58",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Quicksilver Progenitor.png"
+			}
+		},
+		{
+			"name": "Selfless Abunas",
+			"rarity": "rare",
+			"mana_cost": "{2/W}{2/W}",
+			"type": "Artifact Creature — Cat Cleric ",
+			"collector_number": "31",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Selfless Abunas.png"
+			}
+		},
+		{
+			"name": "Rind Stone",
+			"rarity": "common",
+			"mana_cost": "{2/G}{2/G}",
+			"type": "Artifact — Food Clue ",
+			"collector_number": "163",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Rind Stone.png"
+			}
+		},
+		{
+			"name": "Vulshok Lancer",
+			"rarity": "common",
+			"mana_cost": "{2/R}{2/R}",
+			"type": "Artifact Creature — Human Knight ",
+			"collector_number": "144",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Vulshok Lancer.png"
+			}
+		},
+		{
+			"name": "Blade of Razorgrass",
+			"rarity": "common",
+			"mana_cost": "{2/W}",
+			"type": "Artifact — Food ",
+			"collector_number": "6",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Blade of Razorgrass.png"
+			}
+		},
+		{
+			"name": "Lacunae Wanderer",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "46",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Lacunae Wanderer.png"
+			}
+		},
+		{
+			"name": "Last Meal",
+			"rarity": "common",
+			"mana_cost": "{2/B}{2/B}{2/B}",
+			"type": "Artifact — Food ",
+			"collector_number": "87",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Last Meal.png"
+			}
+		},
+		{
+			"name": "Requisitioned Stockpile",
+			"rarity": "rare",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact — Food ",
+			"collector_number": "29",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Requisitioned Stockpile.png"
+			}
+		},
+		{
+			"name": "Cryptic Capsule",
+			"rarity": "uncommon",
+			"mana_cost": "{2/U}",
+			"type": "Artifact — Clue ",
+			"collector_number": "40",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Cryptic Capsule.png"
+			}
+		},
+		{
+			"name": "Herald of the Blue Sun",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{U}{U}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "44",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Herald of the Blue Sun.png"
+			}
+		},
+		{
+			"name": "Venser, Quicksilver Savant",
+			"rarity": "rare",
+			"mana_cost": "{1}{W}{U}",
+			"type": "Legendary Artifact Creature — Human ",
+			"collector_number": "189",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Venser, Quicksilver Savant.png"
+			}
+		},
+		{
+			"name": "Sylvok Bracers",
+			"rarity": "uncommon",
+			"mana_cost": "{2/G}{2/G}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "170",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Sylvok Bracers.png"
+			}
+		},
+		{
+			"name": "Auriok Greatshield",
+			"rarity": "uncommon",
+			"mana_cost": "{2/W}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "3",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Auriok Greatshield.png"
+			}
+		},
+		{
+			"name": "Troll Preserves",
+			"rarity": "uncommon",
+			"mana_cost": "{2/G}",
+			"type": "Artifact — Food Clue ",
+			"collector_number": "176",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Troll Preserves.png"
+			}
+		},
+		{
+			"name": "Slobad, Scrap Splicer",
+			"rarity": "rare",
+			"mana_cost": "{1}{B}{R}",
+			"type": "Legendary Artifact Creature — Goblin ",
+			"collector_number": "188",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Slobad, Scrap Splicer.png"
+			}
+		},
+		{
+			"name": "Tower of the Blue Sun",
+			"rarity": "mythic",
+			"mana_cost": "{3}{U}{U}{U}",
+			"type": "Legendary Artifact",
+			"collector_number": "69",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Tower of the Blue Sun.png"
+			}
+		},
+		{
+			"name": "Vapor Vial",
+			"rarity": "uncommon",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact — Clue ",
+			"collector_number": "71",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Vapor Vial.png"
+			}
+		},
+		{
+			"name": "Magnetic Armory",
+			"rarity": "uncommon",
+			"mana_cost": "{2/R}{2/R}",
+			"type": "Artifact",
+			"collector_number": "130",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Magnetic Armory.png"
+			}
+		},
+		{
+			"name": "Falling Tanglefruit",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact — Food Clue ",
+			"collector_number": "151",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Falling Tanglefruit.png"
+			}
+		},
+		{
+			"name": "Auriok Forager",
+			"rarity": "common",
+			"mana_cost": "{2/W}{2/W}",
+			"type": "Artifact Creature — Human Scout ",
+			"collector_number": "2",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Auriok Forager.png"
+			}
+		},
+		{
+			"name": "Den Watcher",
+			"rarity": "uncommon",
+			"mana_cost": "{2/W}{2/W}",
+			"type": "Artifact Creature — Bird ",
+			"collector_number": "10",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Den Watcher.png"
+			}
+		},
+		{
+			"name": "Sentinel Splicer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Human Artificer ",
+			"collector_number": "165",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Sentinel Splicer.png"
+			}
+		},
+		{
+			"name": "Herald of the Green Sun",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{G}{G}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "153",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Herald of the Green Sun.png"
+			}
+		},
+		{
+			"name": "Prison Food",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact — Food ",
+			"collector_number": "27",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Prison Food.png"
+			}
+		},
+		{
+			"name": "Seal of Might",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact",
+			"collector_number": "164",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Seal of Might.png"
+			}
+		},
+		{
+			"name": "Auriok Trapper",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Human Soldier ",
+			"collector_number": "4",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Auriok Trapper.png"
+			}
+		},
+		{
+			"name": "Viridian Pathfinder",
+			"rarity": "common",
+			"mana_cost": "{2/G}{2/G}",
+			"type": "Artifact Creature — Elf Scout ",
+			"collector_number": "180",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Viridian Pathfinder.png"
+			}
+		},
+		{
+			"name": "Tower of the Green Sun",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}{G}",
+			"type": "Legendary Artifact",
+			"collector_number": "175",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Tower of the Green Sun.png"
+			}
+		},
+		{
+			"name": "Herald of the Red Sun",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{R}{R}",
+			"type": "Artifact Creature — Dragon ",
+			"collector_number": "126",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Herald of the Red Sun.png"
+			}
+		},
+		{
+			"name": "Vineweaver Golem",
+			"rarity": "common",
+			"mana_cost": "{3}{G}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "177",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Vineweaver Golem.png"
+			}
+		},
+		{
+			"name": "Everburning Forge",
+			"rarity": "rare",
+			"mana_cost": "{2/R}{2/R}",
+			"type": "Artifact",
+			"collector_number": "119",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Everburning Forge.png"
+			}
+		},
+		{
+			"name": "Plate of Elspeth",
+			"rarity": "mythic",
+			"mana_cost": "{1}{W}{W}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "26",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Plate of Elspeth.png"
+			}
+		},
+		{
+			"name": "Wanderguard Scout",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Drone ",
+			"collector_number": "72",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Wanderguard Scout.png"
+			}
+		},
+		{
+			"name": "Gold Sundial",
+			"rarity": "rare",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact",
+			"collector_number": "11",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Gold Sundial.png"
+			}
+		},
+		{
+			"name": "Myr Astronomer",
+			"rarity": "uncommon",
+			"mana_cost": "{2/W}",
+			"type": "Artifact Creature — Myr ",
+			"collector_number": "25",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Myr Astronomer.png"
+			}
+		},
+		{
+			"name": "Sapphire Sundial",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact",
+			"collector_number": "61",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Sapphire Sundial.png"
+			}
+		},
+		{
+			"name": "Quicksilver Thopter",
+			"rarity": "uncommon",
+			"mana_cost": "{2/U}",
+			"type": "Artifact Creature — Thopter ",
+			"collector_number": "59",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Quicksilver Thopter.png"
+			}
+		},
+		{
+			"name": "Tel-Jilad Wardens",
+			"rarity": "common",
+			"mana_cost": "{4}{G}",
+			"type": "Artifact Creature — Elf Archer ",
+			"collector_number": "174",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Tel-Jilad Wardens.png"
+			}
+		},
+		{
+			"name": "Bosh, Iron Artisan",
+			"rarity": "mythic",
+			"mana_cost": "{2/R}{2/R}{2/R}",
+			"type": "Legendary Artifact Creature — Golem ",
+			"collector_number": "113",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Bosh, Iron Artisan.png"
+			}
+		},
+		{
+			"name": "Grapplehook Golem",
+			"rarity": "common",
+			"mana_cost": "{4}{R}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "125",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Grapplehook Golem.png"
+			}
+		},
+		{
+			"name": "Trained Razorswine",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Beast ",
+			"collector_number": "141",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Trained Razorswine.png"
+			}
+		},
+		{
+			"name": "Moriok Overseer",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Human Scout ",
+			"collector_number": "95",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Moriok Overseer.png"
+			}
+		},
+		{
+			"name": "Neurosplicer Station",
+			"rarity": "rare",
+			"mana_cost": "{2/U}",
+			"type": "Artifact",
+			"collector_number": "56",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Neurosplicer Station.png"
+			}
+		},
+		{
+			"name": "Leaden Sundial",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact",
+			"collector_number": "88",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Leaden Sundial.png"
+			}
+		},
+		{
+			"name": "Quicksilver Weird",
+			"rarity": "common",
+			"mana_cost": "{2/U}{2/U}",
+			"type": "Artifact Creature — Weird ",
+			"collector_number": "60",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Quicksilver Weird.png"
+			}
+		},
+		{
+			"name": "Bludgeon Brawler",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "112",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Bludgeon Brawler.png"
+			}
+		},
+		{
+			"name": "Nim Rummager",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Zombie ",
+			"collector_number": "101",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Nim Rummager.png"
+			}
+		},
+		{
+			"name": "Malodorous Feast",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact — Food ",
+			"collector_number": "89",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Malodorous Feast.png"
+			}
+		},
+		{
+			"name": "Lumengrid Courier",
+			"rarity": "common",
+			"mana_cost": "{4}{U}",
+			"type": "Artifact Creature — Drone ",
+			"collector_number": "47",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Lumengrid Courier.png"
+			}
+		},
+		{
+			"name": "Taj-Nar Spirit",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Spirit ",
+			"collector_number": "34",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Taj-Nar Spirit.png"
+			}
+		},
+		{
+			"name": "Buried Supplies",
+			"rarity": "common",
+			"mana_cost": "{2/B}",
+			"type": "Artifact — Food ",
+			"collector_number": "73",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Buried Supplies.png"
+			}
+		},
+		{
+			"name": "Iron Sundial",
+			"rarity": "rare",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact",
+			"collector_number": "127",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Iron Sundial.png"
+			}
+		},
+		{
+			"name": "Copper Sundial",
+			"rarity": "rare",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact",
+			"collector_number": "148",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Copper Sundial.png"
+			}
+		},
+		{
+			"name": "Secret Shaperate",
+			"rarity": "rare",
+			"mana_cost": "{2/U}{2/U}{2/U}",
+			"type": "Artifact",
+			"collector_number": "64",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Secret Shaperate.png"
+			}
+		},
+		{
+			"name": "Spearhead Ogre",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Ogre Barbarian ",
+			"collector_number": "139",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Spearhead Ogre.png"
+			}
+		},
+		{
+			"name": "Gauntlets of Koth",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "123",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Gauntlets of Koth.png"
+			}
+		},
+		{
+			"name": "Catapult Goblin",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact Creature — Goblin Scout ",
+			"collector_number": "116",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Catapult Goblin.png"
+			}
+		},
+		{
+			"name": "Flailing Golem",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "120",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Flailing Golem.png"
+			}
+		},
+		{
+			"name": "Hexapod Scavenger",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Insect ",
+			"collector_number": "154",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Hexapod Scavenger.png"
+			}
+		},
+		{
+			"name": "Darkslick Delver",
+			"rarity": "uncommon",
+			"mana_cost": "{2/U}{2/U}{2/U}",
+			"type": "Artifact Creature — Drone ",
+			"collector_number": "41",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Darkslick Delver.png"
+			}
+		},
+		{
+			"name": "Sylvok Archer",
+			"rarity": "common",
+			"mana_cost": "{2}{G}",
+			"type": "Artifact Creature — Human Archer ",
+			"collector_number": "169",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Sylvok Archer.png"
+			}
+		},
+		{
+			"name": "Acidic Sap",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{G}",
+			"type": "Artifact — Food Clue ",
+			"collector_number": "145",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Acidic Sap.png"
+			}
+		},
+		{
+			"name": "Titan Bait",
+			"rarity": "common",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact — Food ",
+			"collector_number": "35",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Titan Bait.png"
+			}
+		},
+		{
+			"name": "Spoiled Goods",
+			"rarity": "common",
+			"mana_cost": "{2/B}{2/B}",
+			"type": "Artifact — Food ",
+			"collector_number": "107",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Spoiled Goods.png"
+			}
+		},
+		{
+			"name": "Junkernaut",
+			"rarity": "rare",
+			"mana_cost": "{2/B}{2/B}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "85",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Junkernaut.png"
+			}
+		},
+		{
+			"name": "Moriok Collar",
+			"rarity": "uncommon",
+			"mana_cost": "{2/B}",
+			"type": "Artifact — Equipment ",
+			"collector_number": "94",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Moriok Collar.png"
+			}
+		},
+		{
+			"name": "Memyr, the Propagator",
+			"rarity": "mythic",
+			"mana_cost": "{2/U}",
+			"type": "Legendary Artifact Creature — Myr ",
+			"collector_number": "50",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Memyr, the Propagator.png"
+			}
+		},
+		{
+			"name": "Kemba, Kha Outfitter",
+			"rarity": "mythic",
+			"mana_cost": "{2/W}{2/W}",
+			"type": "Legendary Artifact Creature — Cat ",
+			"collector_number": "15",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Kemba, Kha Outfitter.png"
+			}
+		},
+		{
+			"name": "Zikk, Nim Necromachinist",
+			"rarity": "rare",
+			"mana_cost": "{4}{U}{B}",
+			"type": "Legendary Artifact Creature — Zombie ",
+			"collector_number": "190",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Zikk, Nim Necromachinist.png"
+			}
+		},
+		{
+			"name": "Tower of the Black Sun",
+			"rarity": "mythic",
+			"mana_cost": "{3}{B}{B}{B}",
+			"type": "Legendary Artifact",
+			"collector_number": "108",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Tower of the Black Sun.png"
+			}
+		},
+		{
+			"name": "Tower of the Red Sun",
+			"rarity": "mythic",
+			"mana_cost": "{2}{R}{R}{R}",
+			"type": "Legendary Artifact",
+			"collector_number": "140",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Tower of the Red Sun.png"
+			}
+		},
+		{
+			"name": "Tower of the White Sun",
+			"rarity": "mythic",
+			"mana_cost": "{4}{W}{W}{W}",
+			"type": "Legendary Artifact",
+			"collector_number": "36",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Tower of the White Sun.png"
+			}
+		},
+		{
+			"name": "Glissa Sunbringer",
+			"rarity": "rare",
+			"mana_cost": "{1}{G}{U}",
+			"type": "Legendary Artifact Creature — Elf ",
+			"collector_number": "183",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Glissa Sunbringer.png"
+			}
+		},
+		{
+			"name": "Leonin Skyknight",
+			"rarity": "common",
+			"mana_cost": "{3}{W}",
+			"type": "Artifact Creature — Cat Knight ",
+			"collector_number": "18",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Leonin Skyknight.png"
+			}
+		},
+		{
+			"name": "Fascinating Rune",
+			"rarity": "common",
+			"mana_cost": "{2/U}",
+			"type": "Artifact — Clue ",
+			"collector_number": "42",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Fascinating Rune.png"
+			}
+		},
+		{
+			"name": "Bottled Lightning",
+			"rarity": "common",
+			"mana_cost": "{2/R}",
+			"type": "Artifact",
+			"collector_number": "114",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Bottled Lightning.png"
+			}
+		},
+		{
+			"name": "Protean Protein",
+			"rarity": "uncommon",
+			"mana_cost": "{2/G}{2/G}{2/G}",
+			"type": "Artifact — Food Clue ",
+			"collector_number": "160",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Protean Protein.png"
+			}
+		},
+		{
+			"name": "Loxodon Sunseeker",
+			"rarity": "common",
+			"mana_cost": "{4}{W}",
+			"type": "Artifact Creature — Elephant Scout ",
+			"collector_number": "20",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Loxodon Sunseeker.png"
+			}
+		},
+		{
+			"name": "Ezuri, the Unifier",
+			"rarity": "rare",
+			"mana_cost": "{3}{G}{W}",
+			"type": "Legendary Artifact Creature — Elf ",
+			"collector_number": "182",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Ezuri, the Unifier.png"
+			}
+		},
+		{
+			"name": "Lumengrid Fabricator",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Vedalken Artificer ",
+			"collector_number": "48",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Lumengrid Fabricator.png"
+			}
+		},
+		{
+			"name": "Geth, Exoskeletal Amalgam",
+			"rarity": "mythic",
+			"mana_cost": "{2/B}{2/B}",
+			"type": "Legendary Artifact Creature — Skeleton ",
+			"collector_number": "80",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Geth, Exoskeletal Amalgam.png"
+			}
+		},
+		{
+			"name": "Staff of Thrun",
+			"rarity": "mythic",
+			"mana_cost": "{2}{G}{G}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "166",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Staff of Thrun.png"
+			}
+		},
+		{
+			"name": "Claw of Tezzeret",
+			"rarity": "mythic",
+			"mana_cost": "{1}{B}{B}",
+			"type": "Legendary Artifact — Equipment ",
+			"collector_number": "74",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Claw of Tezzeret.png"
+			}
+		},
+		{
+			"name": "Dubious Draft",
+			"rarity": "uncommon",
+			"mana_cost": "{2/B}",
+			"type": "Artifact — Food ",
+			"collector_number": "78",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Dubious Draft.png"
+			}
+		},
+		{
+			"name": "Slag Golem",
+			"rarity": "rare",
+			"mana_cost": "{2/R}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "138",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Slag Golem.png"
+			}
+		},
+		{
+			"name": "Assault Splicer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact Creature — Human Artificer ",
+			"collector_number": "111",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Assault Splicer.png"
+			}
+		},
+		{
+			"name": "Tracker Mage",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Human Wizard ",
+			"collector_number": "70",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Tracker Mage.png"
+			}
+		},
+		{
+			"name": "Nim Hoarder",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{B}",
+			"type": "Artifact Creature — Zombie ",
+			"collector_number": "100",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Nim Hoarder.png"
+			}
+		},
+		{
+			"name": "Blinkmoth Lantern",
+			"rarity": "uncommon",
+			"mana_cost": "{2/W}",
+			"type": "Artifact",
+			"collector_number": "7",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Blinkmoth Lantern.png"
+			}
+		},
+		{
+			"name": "Mysterious Mould",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact — Clue ",
+			"collector_number": "52",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Mysterious Mould.png"
+			}
+		},
+		{
+			"name": "Curious Consumer",
+			"rarity": "uncommon",
+			"mana_cost": "{2/G}{2/G}",
+			"type": "Artifact Creature — Ouphe ",
+			"collector_number": "149",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Curious Consumer.png"
+			}
+		},
+		{
+			"name": "Biosplicer Station",
+			"rarity": "rare",
+			"mana_cost": "{2/G}{2/G}",
+			"type": "Artifact",
+			"collector_number": "146",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Biosplicer Station.png"
+			}
+		},
+		{
+			"name": "Overflowing Scrapheap",
+			"rarity": "rare",
+			"mana_cost": "{2/B}{2/B}",
+			"type": "Artifact",
+			"collector_number": "102",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Overflowing Scrapheap.png"
+			}
+		},
+		{
+			"name": "Alluring Treasure",
+			"rarity": "common",
+			"mana_cost": "{2}{R}",
+			"type": "Artifact — Treasure ",
+			"collector_number": "109",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Alluring Treasure.png"
+			}
+		},
+		{
+			"name": "Hexgold Golem",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{W}{W}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "14",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Hexgold Golem.png"
+			}
+		},
+		{
+			"name": "Ironfang Vampire",
+			"rarity": "common",
+			"mana_cost": "{2}{B}",
+			"type": "Artifact Creature — Vampire Warrior ",
+			"collector_number": "84",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Ironfang Vampire.png"
+			}
+		},
+		{
+			"name": "White Sun Monument",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "200",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/White Sun Monument.png"
+			}
+		},
+		{
+			"name": "Blue Sun Monument",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "197",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Blue Sun Monument.png"
+			}
+		},
+		{
+			"name": "Black Sun Monument",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "196",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Black Sun Monument.png"
+			}
+		},
+		{
+			"name": "Red Sun Monument",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "199",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Red Sun Monument.png"
+			}
+		},
+		{
+			"name": "Green Sun Monument",
+			"rarity": "uncommon",
+			"mana_cost": "",
+			"type": "Artifact Land",
+			"collector_number": "198",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Green Sun Monument.png"
+			}
+		},
+		{
+			"name": "Charming Cache",
+			"rarity": "common",
+			"mana_cost": "{2/W}{2/W}",
+			"type": "Artifact — Food ",
+			"collector_number": "9",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Charming Cache.png"
+			}
+		},
+		{
+			"name": "Ancient Astrolabe",
+			"rarity": "common",
+			"mana_cost": "{2/U}{2/U}",
+			"type": "Artifact — Clue ",
+			"collector_number": "37",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Ancient Astrolabe.png"
+			}
+		},
+		{
+			"name": "Necrogen Stinger",
+			"rarity": "common",
+			"mana_cost": "{2/B}{2/B}",
+			"type": "Artifact Creature — Insect ",
+			"collector_number": "98",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Necrogen Stinger.png"
+			}
+		},
+		{
+			"name": "Tel-Jilad Treefolk",
+			"rarity": "rare",
+			"mana_cost": "{2/G}{2/G}{2/G}{2/G}",
+			"type": "Artifact Creature — Treefolk ",
+			"collector_number": "173",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Tel-Jilad Treefolk.png"
+			}
+		},
+		{
+			"name": "Flash Furnace",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{R}{R}",
+			"type": "Artifact",
+			"collector_number": "122",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Flash Furnace.png"
+			}
+		},
+		{
+			"name": "Carried Cask",
+			"rarity": "uncommon",
+			"mana_cost": "{2/W}{2/W}{2/W}",
+			"type": "Artifact — Food ",
+			"collector_number": "8",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Carried Cask.png"
+			}
+		},
+		{
+			"name": "Loxodon Weaponmaster",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Elephant Soldier ",
+			"collector_number": "21",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Loxodon Weaponmaster.png"
+			}
+		},
+		{
+			"name": "Motorized Den",
+			"rarity": "rare",
+			"mana_cost": "{2/W}{2/W}{2/W}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "23",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Motorized Den.png"
+			}
+		},
+		{
+			"name": "Blinkmoth Serum",
+			"rarity": "common",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact — Clue ",
+			"collector_number": "38",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Blinkmoth Serum.png"
+			}
+		},
+		{
+			"name": "Serum Synthesizer",
+			"rarity": "uncommon",
+			"mana_cost": "{3}{U}",
+			"type": "Artifact Creature — Vedalken Rogue ",
+			"collector_number": "65",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Serum Synthesizer.png"
+			}
+		},
+		{
+			"name": "Colossal Octopod",
+			"rarity": "rare",
+			"mana_cost": "{2/U}{2/U}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "39",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Colossal Octopod.png"
+			}
+		},
+		{
+			"name": "Mycosynth Abomination",
+			"rarity": "common",
+			"mana_cost": "{7}{B}",
+			"type": "Artifact Creature — Horror ",
+			"collector_number": "96",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Mycosynth Abomination.png"
+			}
+		},
+		{
+			"name": "Nihil Stone",
+			"rarity": "rare",
+			"mana_cost": "{2/B}",
+			"type": "Artifact",
+			"collector_number": "99",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Nihil Stone.png"
+			}
+		},
+		{
+			"name": "Restless Rustdragger",
+			"rarity": "rare",
+			"mana_cost": "{2/B}{2/B}",
+			"type": "Artifact Creature — Spirit ",
+			"collector_number": "104",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Restless Rustdragger.png"
+			}
+		},
+		{
+			"name": "Myriad Hydra",
+			"rarity": "rare",
+			"mana_cost": "{2/G}",
+			"type": "Artifact Creature — Myr Hydra ",
+			"collector_number": "159",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Myriad Hydra.png"
+			}
+		},
+		{
+			"name": "Myr Stomper",
+			"rarity": "uncommon",
+			"mana_cost": "{4}{G}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "158",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Myr Stomper.png"
+			}
+		},
+		{
+			"name": "Fangren Stalker",
+			"rarity": "common",
+			"mana_cost": "{1}{G}",
+			"type": "Artifact Creature — Beast ",
+			"collector_number": "152",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Fangren Stalker.png"
+			}
+		},
+		{
+			"name": "Glitter Splitter",
+			"rarity": "common",
+			"mana_cost": "{2/R}{2/R}",
+			"type": "Artifact — Treasure ",
+			"collector_number": "124",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Glitter Splitter.png"
+			}
+		},
+		{
+			"name": "Kuldotha Acolyte",
+			"rarity": "uncommon",
+			"mana_cost": "{2/R}",
+			"type": "Artifact Creature — Goblin Monk ",
+			"collector_number": "129",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Kuldotha Acolyte.png"
+			}
+		},
+		{
+			"name": "Shrapnelemental",
+			"rarity": "rare",
+			"mana_cost": "{2/R}{2/R}{2/R}{2/R}{2/R}",
+			"type": "Artifact Creature — Elemental ",
+			"collector_number": "137",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Shrapnelemental.png"
+			}
+		},
+		{
+			"name": "Razorfield Barrier",
+			"rarity": "rare",
+			"mana_cost": "{2/W}",
+			"type": "Artifact",
+			"collector_number": "28",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Razorfield Barrier.png"
+			}
+		},
+		{
+			"name": "Mycosynth Purifier",
+			"rarity": "rare",
+			"mana_cost": "{2/W}{2/W}{2/W}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "24",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Mycosynth Purifier.png"
+			}
+		},
+		{
+			"name": "Leonin Dispatcher",
+			"rarity": "common",
+			"mana_cost": "{1}{W}",
+			"type": "Artifact Creature — Cat Warrior ",
+			"collector_number": "17",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Leonin Dispatcher.png"
+			}
+		},
+		{
+			"name": "Loyal Razorhound",
+			"rarity": "uncommon",
+			"mana_cost": "{2}{W}",
+			"type": "Artifact Creature — Dog ",
+			"collector_number": "22",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Loyal Razorhound.png"
+			}
+		},
+		{
+			"name": "Pestering Drake",
+			"rarity": "common",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Drake ",
+			"collector_number": "57",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Pestering Drake.png"
+			}
+		},
+		{
+			"name": "Neurok Tideshaper",
+			"rarity": "common",
+			"mana_cost": "{1}{U}",
+			"type": "Artifact Creature — Human Wizard ",
+			"collector_number": "55",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Neurok Tideshaper.png"
+			}
+		},
+		{
+			"name": "Synod Obelisk",
+			"rarity": "rare",
+			"mana_cost": "{2/U}{2/U}",
+			"type": "Artifact",
+			"collector_number": "67",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Synod Obelisk.png"
+			}
+		},
+		{
+			"name": "Scrapyard Sphinx",
+			"rarity": "rare",
+			"mana_cost": "{9}{U}{U}{U}",
+			"type": "Artifact Creature — Sphinx ",
+			"collector_number": "62",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Scrapyard Sphinx.png"
+			}
+		},
+		{
+			"name": "Necrogen Chimney",
+			"rarity": "uncommon",
+			"mana_cost": "{2/B}",
+			"type": "Artifact",
+			"collector_number": "97",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Necrogen Chimney.png"
+			}
+		},
+		{
+			"name": "Harvester Terminal",
+			"rarity": "uncommon",
+			"mana_cost": "{2/B}{2/B}",
+			"type": "Artifact",
+			"collector_number": "82",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Harvester Terminal.png"
+			}
+		},
+		{
+			"name": "Moriok Champion",
+			"rarity": "rare",
+			"mana_cost": "{2/B}{2/B}{2/B}",
+			"type": "Artifact Creature — Human Knight ",
+			"collector_number": "93",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Moriok Champion.png"
+			}
+		},
+		{
+			"name": "Mechrotic Ooze",
+			"rarity": "rare",
+			"mana_cost": "{2}{B}{B}",
+			"type": "Artifact Creature — Ooze ",
+			"collector_number": "90",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Mechrotic Ooze.png"
+			}
+		},
+		{
+			"name": "Flametongue Freighter",
+			"rarity": "rare",
+			"mana_cost": "{2/R}{2/R}{2/R}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "121",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Flametongue Freighter.png"
+			}
+		},
+		{
+			"name": "Broken Banner",
+			"rarity": "rare",
+			"mana_cost": "{2/R}",
+			"type": "Artifact",
+			"collector_number": "115",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Broken Banner.png"
+			}
+		},
+		{
+			"name": "Krark-Clan Kindler",
+			"rarity": "common",
+			"mana_cost": "{1}{R}",
+			"type": "Artifact Creature — Goblin Shaman ",
+			"collector_number": "128",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Krark-Clan Kindler.png"
+			}
+		},
+		{
+			"name": "Diamond Drill",
+			"rarity": "common",
+			"mana_cost": "{3}{R}",
+			"type": "Artifact — Treasure ",
+			"collector_number": "117",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Diamond Drill.png"
+			}
+		},
+		{
+			"name": "Viridian Idol",
+			"rarity": "rare",
+			"mana_cost": "{2/G}",
+			"type": "Artifact",
+			"collector_number": "179",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Viridian Idol.png"
+			}
+		},
+		{
+			"name": "Tangle Guardian",
+			"rarity": "rare",
+			"mana_cost": "{2/G}{2/G}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "171",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Tangle Guardian.png"
+			}
+		},
+		{
+			"name": "Repurposed Leveler",
+			"rarity": "rare",
+			"mana_cost": "{2/G}{2/G}{2/G}",
+			"type": "Artifact — Vehicle ",
+			"collector_number": "162",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Repurposed Leveler.png"
+			}
+		},
+		{
+			"name": "Tangle Thorns",
+			"rarity": "uncommon",
+			"mana_cost": "{2/G}{2/G}",
+			"type": "Artifact",
+			"collector_number": "172",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Tangle Thorns.png"
+			}
+		},
+		{
+			"name": "Hoverguard Stabilizer",
+			"rarity": "rare",
+			"mana_cost": "{2}{U}",
+			"type": "Artifact Creature — Drone ",
+			"collector_number": "45",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Hoverguard Stabilizer.png"
+			}
+		},
+		{
+			"name": "Darksteel Elemental",
+			"rarity": "rare",
+			"mana_cost": "{5}{G}{G}",
+			"type": "Artifact Creature — Elemental ",
+			"collector_number": "150",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Darksteel Elemental.png"
+			}
+		},
+		{
+			"name": "Dross Demon",
+			"rarity": "rare",
+			"mana_cost": "{5}{B}{B}",
+			"type": "Artifact Creature — Demon ",
+			"collector_number": "76",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Dross Demon.png"
+			}
+		},
+		{
+			"name": "Taj-Nar Memorial",
+			"rarity": "rare",
+			"mana_cost": "{2/W}{2/W}{2/W}",
+			"type": "Artifact",
+			"collector_number": "33",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Taj-Nar Memorial.png"
+			}
+		},
+		{
+			"name": "Oxidda Raider",
+			"rarity": "rare",
+			"mana_cost": "{2/R}{2/R}{2/R}",
+			"type": "Artifact Creature — Golem ",
+			"collector_number": "134",
+			"image_uris": {
+				"en": "https://github.com/Pseudophysics/Mirrodin-Pure-Art/refs/heads/main/MPA/Oxidda Raider.png"
+			}
+		},
+		]
+	[RareSlot(1)]
+	2 Shaping Steel
+		2 Mechastronomer Barolt
+		2 Karn, Rage Splicer
+		2 Hexgold Coating
+		2 Gusven, Infant Slagwurm
+		2 Metatog
+		2 Auriok Vanguard
+		2 Jor Kadeen, Battlecrier
+		2 Debris Titan
+		2 Chiss-Goria, Reforged
+		2 Quicksilver Progenitor
+		2 Selfless Abunas
+		2 Requisitioned Stockpile
+		2 Venser, Quicksilver Savant
+		2 Slobad, Scrap Splicer
+		2 Everburning Forge
+		2 Gold Sundial
+		2 Sapphire Sundial
+		2 Neurosplicer Station
+		2 Leaden Sundial
+		2 Bludgeon Brawler
+		2 Iron Sundial
+		2 Copper Sundial
+		2 Secret Shaperate
+		2 Acidic Sap
+		2 Junkernaut
+		2 Zikk, Nim Necromachinist
+		2 Glissa Sunbringer
+		2 Ezuri, the Unifier
+		2 Slag Golem
+		2 Biosplicer Station
+		2 Overflowing Scrapheap
+		2 Tel-Jilad Treefolk
+		2 Motorized Den
+		2 Colossal Octopod
+		2 Nihil Stone
+		2 Restless Rustdragger
+		2 Myriad Hydra
+		2 Shrapnelemental
+		2 Razorfield Barrier
+		2 Mycosynth Purifier
+		2 Synod Obelisk
+		2 Scrapyard Sphinx
+		2 Moriok Champion
+		2 Mechrotic Ooze
+		2 Flametongue Freighter
+		2 Broken Banner
+		2 Viridian Idol
+		2 Tangle Guardian
+		2 Repurposed Leveler
+		2 Hoverguard Stabilizer
+		2 Darksteel Elemental
+		2 Dross Demon
+		2 Taj-Nar Memorial
+		2 Oxidda Raider
+		1 Helm of Memnarch
+		1 Melira, Sylvok Paragon
+		1 Tower of the Blue Sun
+		1 Tower of the Green Sun
+		1 Plate of Elspeth
+		1 Bosh, Iron Artisan
+		1 Gauntlets of Koth
+		1 Memyr, the Propagator
+		1 Kemba, Kha Outfitter
+		1 Tower of the Black Sun
+		1 Tower of the Red Sun
+		1 Tower of the White Sun
+		1 Geth, Exoskeletal Amalgam
+		1 Staff of Thrun
+		1 Claw of Tezzeret
+		[UncommonSlot(3)]
+	9 Herald of the White Sun
+		9 Viridian Druid
+		9 Herald of the Black Sun
+		9 Neurok Curator
+		9 Lost to the Lacunae
+		9 Ornate Scabbard
+		9 Diskelion
+		9 Platinum Press
+		9 Vulshok Geomancer
+		9 Dusk Scavenger
+		9 Neurok Deflector
+		9 Contested Carcass
+		9 Synod Seat
+		9 Supply Smasher
+		9 Poisoned Provisions
+		9 Graveyard Stash
+		9 Vulshok Bonesplitter
+		9 Mephidross Cultivator
+		9 Mephidross Bloodletter
+		9 Cryptic Capsule
+		9 Herald of the Blue Sun
+		9 Sylvok Bracers
+		9 Auriok Greatshield
+		9 Troll Preserves
+		9 Vapor Vial
+		9 Magnetic Armory
+		9 Den Watcher
+		9 Sentinel Splicer
+		9 Herald of the Green Sun
+		9 Herald of the Red Sun
+		9 Myr Astronomer
+		9 Quicksilver Thopter
+		9 Spearhead Ogre
+		9 Darkslick Delver
+		9 Moriok Collar
+		9 Protean Protein
+		9 Lumengrid Fabricator
+		9 Dubious Draft
+		9 Assault Splicer
+		9 Tracker Mage
+		9 Nim Hoarder
+		9 Blinkmoth Lantern
+		9 Curious Consumer
+		9 Hexgold Golem
+		9 White Sun Monument
+		9 Blue Sun Monument
+		9 Black Sun Monument
+		9 Red Sun Monument
+		9 Green Sun Monument
+		9 Flash Furnace
+		9 Carried Cask
+		9 Loxodon Weaponmaster
+		9 Serum Synthesizer
+		9 Myr Stomper
+		9 Kuldotha Acolyte
+		9 Loyal Razorhound
+		9 Necrogen Chimney
+		9 Harvester Terminal
+		9 Tangle Thorns
+		[CommonSlot(10)]
+	30 Supply Thopter
+		30 Lumengrid Lookout
+		30 Irradiated Myr
+		30 Arc Lobber
+		30 Seal of Negation
+		30 Salvage Slasher
+		30 Gold Myr
+		30 Leaden Myr
+		30 Silver Myr
+		30 Iron Myr
+		30 Copper Myr
+		30 Dross Devourer
+		30 Strange Seeds
+		30 Mycosynth Serpent
+		30 Lacunae Burrower
+		30 Oxidda Hellion
+		30 Lacunae Swarm
+		30 Lacunae Luminator
+		30 Seal of Decay
+		30 Seal of Vengeance
+		30 Seal of Shattering
+		30 Armored Skyhunter
+		30 Radix Recluse
+		30 Rind Stone
+		30 Vulshok Lancer
+		30 Blade of Razorgrass
+		30 Lacunae Wanderer
+		30 Last Meal
+		30 Falling Tanglefruit
+		30 Auriok Forager
+		30 Prison Food
+		30 Seal of Might
+		30 Auriok Trapper
+		30 Viridian Pathfinder
+		30 Vineweaver Golem
+		30 Wanderguard Scout
+		30 Tel-Jilad Wardens
+		30 Grapplehook Golem
+		30 Trained Razorswine
+		30 Moriok Overseer
+		30 Quicksilver Weird
+		30 Nim Rummager
+		30 Malodorous Feast
+		30 Lumengrid Courier
+		30 Taj-Nar Spirit
+		30 Buried Supplies
+		30 Catapult Goblin
+		30 Flailing Golem
+		30 Hexapod Scavenger
+		30 Sylvok Archer
+		30 Titan Bait
+		30 Spoiled Goods
+		30 Leonin Skyknight
+		30 Fascinating Rune
+		30 Bottled Lightning
+		30 Loxodon Sunseeker
+		30 Mysterious Mould
+		30 Alluring Treasure
+		30 Ironfang Vampire
+		30 Charming Cache
+		30 Ancient Astrolabe
+		30 Necrogen Stinger
+		30 Blinkmoth Serum
+		30 Mycosynth Abomination
+		30 Fangren Stalker
+		30 Glitter Splitter
+		30 Leonin Dispatcher
+		30 Pestering Drake
+		30 Neurok Tideshaper
+		30 Krark-Clan Kindler
+		30 Diamond Drill
+		[LandSlot(1)]
